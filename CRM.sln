@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM.Web", "CRM\CRM.Web.csproj", "{F74C899D-0A49-45CE-ABEA-74E168F052E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM.Business", "CRM.Business\CRM.Business.csproj", "{0E8F24D8-C1D4-4DF0-AD2F-B827F0CBD4FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM.Model", "CRM.Model\CRM.Model.csproj", "{EDB606E7-DDC8-48A4-A25B-FFE949FC4BB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F74C899D-0A49-45CE-ABEA-74E168F052E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F74C899D-0A49-45CE-ABEA-74E168F052E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F74C899D-0A49-45CE-ABEA-74E168F052E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F74C899D-0A49-45CE-ABEA-74E168F052E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E8F24D8-C1D4-4DF0-AD2F-B827F0CBD4FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E8F24D8-C1D4-4DF0-AD2F-B827F0CBD4FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E8F24D8-C1D4-4DF0-AD2F-B827F0CBD4FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E8F24D8-C1D4-4DF0-AD2F-B827F0CBD4FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDB606E7-DDC8-48A4-A25B-FFE949FC4BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB606E7-DDC8-48A4-A25B-FFE949FC4BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB606E7-DDC8-48A4-A25B-FFE949FC4BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB606E7-DDC8-48A4-A25B-FFE949FC4BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87B1B70C-4123-47AE-9C41-4623680CF56D}
+	EndGlobalSection
+EndGlobal
